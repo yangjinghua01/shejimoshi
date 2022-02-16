@@ -15,5 +15,4 @@ public class Client {
         ChuanZhiSatetyDoor door = new ChuanZhiSatetyDoor();
         door.antiTheft();
     }
-
 }
